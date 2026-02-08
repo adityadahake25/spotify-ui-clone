@@ -44,6 +44,3 @@ It does not include backend functionality or the official Spotify API.
 - Improve accessibility and animations
 
 ---
-
-
-This project is for educational purposes only.
