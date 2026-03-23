@@ -41,6 +41,6 @@ It does not include backend functionality or the official Spotify API.
 - Convert to **React**
 - Integrate **Spotify Web API**
 - Add user authentication
-- Improve accessibility and animations.
+- Improve accessibility and animations
 
 ---
